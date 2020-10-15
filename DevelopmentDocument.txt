@@ -1,4 +1,7 @@
                                            ********HAVI Signin and Login Form for Round-2********
+Candidate Name: MARIA ALLEN DAVID
+Reg ID: 20171CSE0379
+College :PRESIDENCY UNIVERSITY, BANGALORE 
 
 1. Download the file from the Git repository 
 
